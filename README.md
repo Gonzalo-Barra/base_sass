@@ -5,7 +5,7 @@
 
 Descripción
 =========
-Base de proyectgo para empezar un proyecto con SASS de desde cero
+Base de proyecto para empezar un proyecto con SASS de desde cero
 
 
 Documentación resumida de SASS
